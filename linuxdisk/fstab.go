@@ -3,7 +3,8 @@ package linuxdisk
 import (
 	"bufio"
 	"fmt"
-	log "github.com/sirupsen/logrus"
+	"github.com/golangrustnode/log"
+
 	"os"
 	"strings"
 )
